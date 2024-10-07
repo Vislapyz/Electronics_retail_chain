@@ -40,11 +40,7 @@ SECRET_KEY=
 4) #### Используйте команду для создания суперпользователя.
  - python manage.py csu
 
-5) #### Для загрузки данных из фикстур используйте команду
- - python manage.py loaddata fixtures.users.json
- - python manage.py loaddata fixtures.network.json
-
-6) ### Команда для запуска Приложения: 
+5) ### Команда для запуска Приложения: 
   - python manage.py runserver
 
 
